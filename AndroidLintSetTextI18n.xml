@@ -1,0 +1,80 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>68</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>newConfirmed + &quot; حالة&quot;</highlighted_element>
+  <offset>43</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>70</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>totalConfirmed+ &quot; حالة&quot;</highlighted_element>
+  <offset>45</offset>
+  <length>23</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>72</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>newDeaths+ &quot; حالة&quot;</highlighted_element>
+  <offset>40</offset>
+  <length>18</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>74</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>totalDeaths+ &quot; حالة&quot;</highlighted_element>
+  <offset>42</offset>
+  <length>20</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>76</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>newRecovered+ &quot; حالة&quot;</highlighted_element>
+  <offset>43</offset>
+  <length>21</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java</file>
+  <line>78</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/VirusStatisticsActivity.java" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>totalRecovered+ &quot; حالة&quot;</highlighted_element>
+  <offset>45</offset>
+  <length>23</length>
+</problem>
+</problems>
