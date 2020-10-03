@@ -1,0 +1,650 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+  <line>3</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>25</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>11</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'deeppurple'</description>
+  <highlighted_element>deeppurple</highlighted_element>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>12</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'yello'</description>
+  <highlighted_element>yello</highlighted_element>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>13</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/google-services.json</file>
+  <line>13</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>49</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'userphoto'</description>
+  <highlighted_element>userphoto</highlighted_element>
+  <offset>31</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>68</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'userphoto'</description>
+  <highlighted_element>userphoto</highlighted_element>
+  <offset>39</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml</file>
+  <line>44</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Shakibul'</description>
+  <highlighted_element>Shakibul</highlighted_element>
+  <offset>30</offset>
+  <length>8</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>49</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'userphoto'</description>
+  <highlighted_element>userphoto</highlighted_element>
+  <offset>31</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>89</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cerclebackgroundpink'</description>
+  <highlighted_element>cerclebackgroundpink</highlighted_element>
+  <offset>54</offset>
+  <length>20</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>113</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>154</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cerclebackgroundpurple'</description>
+  <highlighted_element>cerclebackgroundpurple</highlighted_element>
+  <offset>54</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>178</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>218</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cerclebackgroundyello'</description>
+  <highlighted_element>cerclebackgroundyello</highlighted_element>
+  <offset>54</offset>
+  <length>21</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>242</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>281</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cerclebackgroundgreen'</description>
+  <highlighted_element>cerclebackgroundgreen</highlighted_element>
+  <offset>54</offset>
+  <length>21</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>305</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>347</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'cerclebackgroundpurple'</description>
+  <highlighted_element>cerclebackgroundpurple</highlighted_element>
+  <offset>54</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>349</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'videocam'</description>
+  <highlighted_element>videocam</highlighted_element>
+  <offset>50</offset>
+  <length>8</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>371</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>61</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Satus'</description>
+  <highlighted_element>Satus</highlighted_element>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>77</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>43</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>80</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Satus'</description>
+  <highlighted_element>Satus</highlighted_element>
+  <offset>64</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml</file>
+  <line>14</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'userphoto'</description>
+  <highlighted_element>userphoto</highlighted_element>
+  <offset>31</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml</file>
+  <line>25</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Shakibul'</description>
+  <highlighted_element>Shakibul</highlighted_element>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml</file>
+  <line>44</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml</file>
+  <line>41</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>39</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Covid'</description>
+  <highlighted_element>Covid</highlighted_element>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>113</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>206</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>299</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>51</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/strings.xml</file>
+  <line>2</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Covid'</description>
+  <highlighted_element>Covid</highlighted_element>
+  <offset>28</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/cerclebackgroundpurple.xml</file>
+  <line>3</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/cerclebackgroundpurple.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'deeppurple'</description>
+  <highlighted_element>deeppurple</highlighted_element>
+  <offset>29</offset>
+  <length>10</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/cerclebackgroundyello.xml</file>
+  <line>3</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/cerclebackgroundyello.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'yello'</description>
+  <highlighted_element>yello</highlighted_element>
+  <offset>33</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/edit_text_shape.xml</file>
+  <line>5</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/edit_text_shape.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/gray_rectangle_shape.xml</file>
+  <line>4</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/gray_rectangle_shape.xml" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'lightgray'</description>
+  <highlighted_element>lightgray</highlighted_element>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/FilterResultsActivity.java</file>
+  <line>23</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="field" FQNAME="com.example.covid19app.activities.FilterResultsActivity filterSatusTv" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Satus'</description>
+  <highlighted_element>Satus</highlighted_element>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>79</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>29</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>79</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspot'</description>
+  <highlighted_element>appspot</highlighted_element>
+  <offset>46</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>83</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>29</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>83</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspot'</description>
+  <highlighted_element>appspot</highlighted_element>
+  <offset>46</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>85</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ffec'</description>
+  <highlighted_element>ffec</highlighted_element>
+  <offset>45</offset>
+  <length>4</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>87</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>25</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>87</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspot'</description>
+  <highlighted_element>appspot</highlighted_element>
+  <offset>42</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>92</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>29</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>93</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspot'</description>
+  <highlighted_element>appspot</highlighted_element>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>94</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'coronavirus'</description>
+  <highlighted_element>coronavirus</highlighted_element>
+  <offset>30</offset>
+  <length>11</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>98</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>30</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>98</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspo'</description>
+  <highlighted_element>appspo</highlighted_element>
+  <offset>47</offset>
+  <length>6</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>103</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'gleapis'</description>
+  <highlighted_element>gleapis</highlighted_element>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>103</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>36</offset>
+  <length>5</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/covid19app/activities/PhotosAlbumActivity.java</file>
+  <line>104</line>
+  <module>app</module>
+  <package>com.example.covid19app.activities</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.activities.PhotosAlbumActivity java.util.List&lt;java.lang.String&gt; getData()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'appspot'</description>
+  <highlighted_element>appspot</highlighted_element>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/covid19app/ExampleInstrumentedTest.java</file>
+  <line>25</line>
+  <module>app</module>
+  <package>com.example.covid19app</package>
+  <entry_point TYPE="method" FQNAME="com.example.covid19app.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'covid'</description>
+  <highlighted_element>covid</highlighted_element>
+  <offset>34</offset>
+  <length>5</length>
+</problem>
+</problems>
