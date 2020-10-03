@@ -1,0 +1,860 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;تسجيل الدخول&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;تسجيل الدخول&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>27</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>66</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;البريد الإلكتروني&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;البريد الإلكتروني&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>32</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>82</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;كلمة المرور&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;كلمة المرور&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>97</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;لست مسجل في التطبيق ؟ إنشاء حساب جديد&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;لست مسجل في التطبيق ؟ إنشاء حساب جديد&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>52</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml</file>
+  <line>117</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;تسجيل دخول&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;تسجيل دخول&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فلترة الإحصائيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فلترة الإحصائيات&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>55</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;أدخل اسم المدينة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;أدخل اسم المدينة&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>89</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الحالات المؤكدة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الحالات المؤكدة&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>30</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>97</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;المتعافين&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;المتعافين&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>24</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>105</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الوفيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الوفيات&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml</file>
+  <line>119</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;عرض الإحصائيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;عرض الإحصائيات&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/waiting_dialog_layout.xml</file>
+  <line>24</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/waiting_dialog_layout.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;يرجى الإنتظار ...&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;يرجى الإنتظار ...&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>32</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml</file>
+  <line>44</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Shakibul Islam&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Shakibul Islam&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml</file>
+  <line>55</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;نشط منذ 20 دقيقة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;نشط منذ 20 دقيقة&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml</file>
+  <line>72</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;اكتب رسالة جديدة ..&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;اكتب رسالة جديدة ..&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>34</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/message_list_item.xml</file>
+  <line>22</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/message_list_item.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;رسالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;رسالة&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>20</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_questions.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_questions.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;سؤال و جواب&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;سؤال و جواب&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_photos_album.xml</file>
+  <line>34</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_photos_album.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;معرض الصور&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;معرض الصور&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>25</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إنشاء حساب&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إنشاء حساب&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>25</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>66</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الإسم الكامل&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;الإسم الكامل&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>27</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>82</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;البريد الإلكتروني&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;البريد الإلكتروني&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>32</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>99</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;كلمة المرور&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;كلمة المرور&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>122</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;التسجيل&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;التسجيل&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+  <line>134</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;هل أنت مسجل لدينا ؟ سجل دخولك&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;هل أنت مسجل لدينا ؟ سجل دخولك&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>44</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الرئيسية&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الرئيسية&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>23</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>102</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;أسئلة وأجوبة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;أسئلة وأجوبة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>27</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>123</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;أسئلة وأجوبة تخص كورونا&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;أسئلة وأجوبة تخص كورونا&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>38</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>167</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;أساليب الوقاية&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;أساليب الوقاية&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>188</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;صور الوقاية من المرض&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;صور الوقاية من المرض&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>35</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>231</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إحصائيات المرض&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إحصائيات المرض&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>252</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إحصائيات حديثة عن المرض&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إحصائيات حديثة عن المرض&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>38</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>294</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;دردشة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;دردشة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>20</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>315</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;دردش مع الأصدقاء&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;دردش مع الأصدقاء&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>360</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديوهات توعية&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديوهات توعية&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+  <line>381</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديوهات توعية عن المرض&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديوهات توعية عن المرض&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>38</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;نتائج البحث&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;نتائج البحث&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>66</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;-&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;-&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>90</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;-&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;-&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>107</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إسم الدولة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إسم الدولة&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml</file>
+  <line>119</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_filter_results.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;-&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;-&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>16</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml</file>
+  <line>25</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Shakibul Islam&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Shakibul Islam&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml</file>
+  <line>36</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/user_list_item.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;مرحبا! أنا مشترك جديد في التطبيق&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;مرحبا! أنا مشترك جديد في التطبيق&quot;</highlighted_element>
+  <offset>8</offset>
+  <length>47</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml</file>
+  <line>30</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال &quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال السؤال ال...</highlighted_element>
+  <offset>12</offset>
+  <length>106</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml</file>
+  <line>53</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/question_list_item.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب &quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب الجواب ال...</highlighted_element>
+  <offset>12</offset>
+  <length>211</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_users_list.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_users_list.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;مستخدمي التطبيق&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;مستخدمي التطبيق&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>30</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إحصائيات Covid19&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إحصائيات Covid19&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>78</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الإصابات المؤكدة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الإصابات المؤكدة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>91</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إجمالي الإصابات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إجمالي الإصابات&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>30</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>103</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الإصابات الجديدة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الإصابات الجديدة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>126</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>141</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>171</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الوفيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الوفيات&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>22</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>184</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إجمالي الوفيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إجمالي الوفيات&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>196</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;الوفيات الجديدة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;الوفيات الجديدة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>30</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>219</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>234</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>264</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;المتعافين&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;المتعافين&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>24</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>277</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;إجمالي المتعافين&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;إجمالي المتعافين&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>289</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;المتعافين الجدد&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;المتعافين الجدد&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>30</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>312</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>327</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;457865 حالة&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;457865 حالة&quot;</highlighted_element>
+  <offset>24</offset>
+  <length>26</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml</file>
+  <line>346</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_virus_statistics.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فلترة الإحصائيات&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فلترة الإحصائيات&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>31</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml</file>
+  <line>33</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديوهات توعية&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديوهات توعية&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>29</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml</file>
+  <line>63</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديو تعريفي بخطورة فايروس كورونا&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديو تعريفي بخطورة فايروس كورونا&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>48</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml</file>
+  <line>75</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديو بروتوكول علاج المصابين&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديو بروتوكول علاج المصابين&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>43</length>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml</file>
+  <line>87</line>
+  <module>app</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;فيديو توعية بكيفية الوفاية من المرض&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;فيديو توعية بكيفية الوفاية من المرض&quot;</highlighted_element>
+  <offset>16</offset>
+  <length>50</length>
+</problem>
+</problems>
