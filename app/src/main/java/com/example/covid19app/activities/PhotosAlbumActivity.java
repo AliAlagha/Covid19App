@@ -40,7 +40,8 @@ public class PhotosAlbumActivity extends AppCompatActivity {
 
         List<String> data = getData();
 
-        AlbumListAdapter albumListAdapter = new AlbumListAdapter(getApplicationContext(), data
+        AlbumListAdapter albumListAdapter
+                = new AlbumListAdapter(getApplicationContext(), data
                 , new AlbumListAdapter.OnClickListener() {
             @Override
             public void onClick(int position) {
@@ -50,8 +51,10 @@ public class PhotosAlbumActivity extends AppCompatActivity {
             }
         });
 
-        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getApplicationContext(), RecyclerView.HORIZONTAL
-                ,false);
+        LinearLayoutManager linearLayoutManager
+                = new LinearLayoutManager(getApplicationContext()
+                , RecyclerView.HORIZONTAL
+                , false);
         recyclerView.setLayoutManager(linearLayoutManager);
         recyclerView.setAdapter(albumListAdapter);
 
@@ -61,7 +64,8 @@ public class PhotosAlbumActivity extends AppCompatActivity {
 
         List<String> data = getData();
 
-        AlbumPagerAdapter albumPagerAdapter = new AlbumPagerAdapter(getApplicationContext(),data);
+        AlbumPagerAdapter albumPagerAdapter
+                = new AlbumPagerAdapter(getApplicationContext(), data);
 
         sliderPager.setAdapter(albumPagerAdapter);
 
@@ -71,18 +75,34 @@ public class PhotosAlbumActivity extends AppCompatActivity {
 
         images = new ArrayList<>();
 
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793.appspot.com" +
-                "/o/1-1318109.jpg?alt=media&token=ec991292-5542-4030-9588-a273239b6c0b");
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793.appspot.com" +
-                "/o/unnamed.png?alt=media&token=85987020-9546-4253-9fb7-6271d6ffec38");
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793.appspot.com/o/32020261489462" +
-                ".jpg?alt=media&token=0c5c705f-1b0d-4d8c-816a-f1b8f385200f");
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793.appspot.com/o/" +
-                "_110902442_coronavirus_symptoms_short_640-nc.png?alt=media&token=cad3cb8a-6506-4d43-b783-2613750ee697");
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793.appspot.com/o/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-" +
-                "3.png?alt=media&token=274c7641-e713-49cd-85cb-64f623a006f6");
-        images.add("https://firebasestorage.googleapis.com/v0/b/covid19app-8d793" +
-                ".appspot.com/o/776.jpg?alt=media&token=c771c9d6-19a1-4ce2-a1cd-93b981e8ad9f");
+        images.add("https://firebasestorage.googleapis"
+                + ".com/v0/b/covid19app-8d793.appspot.com"
+                + "/o/1-1318109.jpg?alt=media&token=ec991292"
+                + "-5542-4030-9588-a273239b6c0b");
+        images.add("https://firebasestorage.googleapis"
+                + ".com/v0/b/covid19app-8d793.appspot.com"
+                + "/o/unnamed.png?alt=media&token=8598"
+                + "7020-9546-4253-9fb7-6271d6ffec38");
+        images.add("https://firebasestorage.googleapis.com"
+                + "/v0/b/covid19app-8d793.appspot.com"
+                + "/o/32020261489462"
+                + ".jpg?alt=media&token=0c5c705f-1b0d-4d8c-"
+                + "816a-f1b8f385200f");
+        images.add("https://firebasestorage.googleapis"
+                + ".com/v0/b/covid19app-8d793"
+                + ".appspot.com/o/"
+                + "_110902442_coronavirus_symptoms_short_640-"
+                + "nc.png?alt=media&token=cad3cb8a-6506-4d43-b"
+                + "783-2613750ee697");
+        images.add("https://firebasestorage.googleapi"
+                + "s.com/v0/b/covid19app-8d793.appspo"
+                + "t.com/o/%D9%83%D9%88%D8%B1%D9%88%D"
+                + "9%86%D8%A7-3.png?alt=media&token=2"
+                + "74c7641-e713-49cd-85cb-64f623a006f6");
+        images.add("https://firebasestorage.goo"
+                + "gleapis.com/v0/b/covid19app-8d793"
+                + ".appspot.com/o/776.jpg?alt=media&to"
+                + "ken=c771c9d6-19a1-4ce2-a1cd-93b981e8ad9f");
 
         return images;
 
